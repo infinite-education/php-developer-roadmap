@@ -1,8 +1,6 @@
 # [Skills tree PHP Developer](https://infinite.education/view/PHP_Developer)
 A roadmap to become a senior PHP developer
 
-To see a interactive roadmap click on picture
-
 **[PHP Syntax](https://infinite.education/view/php_syntax)**
 
 * **Basic syntax**
@@ -105,7 +103,8 @@ To see a interactive roadmap click on picture
 
 **[Basic Usage of Git](https://infinite.education/view/basic_usage_of_git)**
 * * `Documentation` [Git - Reference](https://git-scm.com/docs)
-                
+
+To see a interactive roadmap click on picture
 
 [![alt text](https://raw.githubusercontent.com/infinite-education/php-developer-roadmap/main/php-developer.png)](https://infinite.education/expertise/PHP_Developer)
 
