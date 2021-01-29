@@ -29,6 +29,7 @@ To see a interactive roadmap click on picture
  -- `Documentation` [PHP: Errors - Manual](https://www.php.net/manual/en/language.errors.php)
 * **Types**
  -- `Documentation` [PHP: Types - Manual](https://www.php.net/manual/en/language.types.php)
+
 **[JSON APIs](https://infinite.education/view/json_apis)**
  -- `Documentation` [JSON:API &mdash; A specification for building APIs in JSON](https://jsonapi.org/)
 * **JSON**
@@ -47,6 +48,7 @@ To see a interactive roadmap click on picture
  -- `Article` [What Is a Relational Database | Oracle](https://www.oracle.com/database/what-is-a-relational-database/)
 * **SQL Syntax**
 * **Database Normalization**
+
 **[HTTP](https://infinite.education/view/http)**
  -- `Article` [An overview of HTTP - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
  -- `Article` [Hypertext Transfer Protocol - Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
@@ -72,6 +74,7 @@ To see a interactive roadmap click on picture
  -- `Documentation` [PHP: ArrayAccess - Manual](https://www.php.net/manual/en/class.arrayaccess.php)
 * **PHP interface: Traversable**
  -- `Documentation` [PHP: Throwable - Manual](https://www.php.net/manual/en/class.throwable.php)
+
 **[PHP Framework](https://infinite.education/view/php_framework)**
  -- `Article` [10 Popular PHP frameworks in 2020](https://raygun.com/blog/top-php-frameworks/)
 * **Wordpress for programmers**
@@ -87,6 +90,7 @@ To see a interactive roadmap click on picture
 * **Symfony**
  -- `Documentation` [Symfony, High Performance PHP Framework for Web Development](https://symfony.com/)
  -- `Article` [Symfony - Wikipedia](https://en.wikipedia.org/wiki/Symfony)
+
 **[HTML](https://infinite.education/view/html)**
  -- `Article` [HTML Standard](https://html.spec.whatwg.org/multipage/)
  -- `Article` [HTML Tutorial](https://www.w3schools.com/html/)
@@ -97,6 +101,7 @@ To see a interactive roadmap click on picture
  -- `Documentation` [CSS Tutorial](https://www.w3schools.com/css/default.asp)
  -- `Article` [Cascading Style Sheets - Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
  -- `Article` [CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+
 **[Basic Usage of Git](https://infinite.education/view/basic_usage_of_git)**
  -- `Documentation` [Git - Reference](https://git-scm.com/docs)
                 
