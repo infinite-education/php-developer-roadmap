@@ -101,5 +101,5 @@ To see a interactive roadmap click on picture
  -- `Documentation` [Git - Reference](https://git-scm.com/docs)
                 
 
-[![alt text](blob/main/php-developer.png)](https://infinite.education/expertise/PHP_Developer)
+[![alt text](https://raw.githubusercontent.com/infinite-education/php-developer-roadmap/main/php-developer.pngg)](https://infinite.education/expertise/PHP_Developer)
 
